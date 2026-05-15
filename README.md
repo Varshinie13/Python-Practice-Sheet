@@ -1,4 +1,4 @@
-# Python-Practice-Sheet
+# Python-Practice-repo
 
 🐍 Python Daily Practice: Basics to Advanced:
 
